@@ -68,13 +68,6 @@ header p {
     color: #ccc;
 }
 
-#boasVindas{
-    margin-top: 12px;
-    color: #FF0000;
-    font-weight: 600;
-    font-size: 1rem;
-    text-shadow: 0 0 10px rgba(255,0,0,.5);
-}
 
 .container {
     text-align: center;
