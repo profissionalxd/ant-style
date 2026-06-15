@@ -29,4 +29,4 @@ setTimeout(() => {
 }
 
 
-console.log("Criador @gustin_cdt")
+console.log("Criador @gustin_cdt & antipathico")
