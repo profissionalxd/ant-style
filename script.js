@@ -5,14 +5,6 @@ function abrirScripts() {
     window.scrollTo(0, 0);
 }
 
-const mensagem = document.getElementById("boasVindas");
-
-if(localStorage.getItem("antstyle_visitou")){
-    mensagem.innerText = "👋 Bem-vindo de volta à ANT STYLE!";
-}else{
-    mensagem.innerText = "🔥 Bem-vindo à ANT STYLE!";
-    localStorage.setItem("antstyle_visitou", "true");
-}
 
 function voltarHome() {
     document.getElementById("scriptsPage").style.display = "none";
